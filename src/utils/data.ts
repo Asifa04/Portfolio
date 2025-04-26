@@ -78,6 +78,7 @@ export const projects: Project[] = [
     description: 'An AI-powered book recommendation system built with Streamlit. Features include personalized suggestions, search functionality, and favorites list with PDF export capabilities.',
     image: 'https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     technologies: ['Python', 'Streamlit', 'AI/ML', 'GitHub'],
+    liveLink: 'https://v0-vercel-ai-project-navy.vercel.app/',
     githubLink: 'https://github.com/Asifa04',
     category: 'ai',
     featured: true,
